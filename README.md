@@ -1,4 +1,11 @@
 ### Hi there 👋
+   ![logo](zd.png)
+
+![](https://img.shields.io/twitter/follow/diclezyneep?style=social)  
+
+![](https://img.shields.io/youtube/channel/subscribers/UCPnJ2dQcht_XPxKaTwVTk2A?style=social)   
+
+[![](https://img.shields.io/badge/Blog-passing-66435A)](https://sisterslab.co/yazar/zeynep-dicle/) 
 
 <!--
 **zeynepdicle/zeynepdicle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
