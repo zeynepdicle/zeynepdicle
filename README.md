@@ -1,11 +1,7 @@
 ### Hi there 👋
-   ![logo](zd.png)
+   ![logo](zd2.png)
 
-![](https://img.shields.io/twitter/follow/diclezyneep?style=social)  
-
-![](https://img.shields.io/youtube/channel/subscribers/UCPnJ2dQcht_XPxKaTwVTk2A?style=social)   
-
-[![](https://img.shields.io/badge/Blog-passing-66435A)](https://sisterslab.co/yazar/zeynep-dicle/) 
+[![](https://img.shields.io/badge/Twitter-66435A)](https://twitter.com/diclezyneep)   [![](https://img.shields.io/badge/Youtube-66435A)](https://www.youtube.com/channel/UCPnJ2dQcht_XPxKaTwVTk2A)   [![](https://img.shields.io/badge/Blog-66435A)](https://sisterslab.co/yazar/zeynep-dicle/)   [![](https://img.shields.io/badge/Spotfiy-66435A)](https://open.spotify.com/user/3bsoz3jesd1aw0qinhvl7kp5n?si=3e6e173cd36746c5)
 
 <!--
 **zeynepdicle/zeynepdicle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
