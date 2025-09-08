@@ -10,7 +10,7 @@
 
 💻 **Languages:** `C` `C++` `Python`
 
-🛠 **Embedded & Tools:** `Yocto Project` `FreeRTOS` `Git` `CMake` `STM32 HAL` `ESP-IDF`  
+🛠 **Embedded OS & Tools:** `Yocto Project` `FreeRTOS` `Git` `CMake` `STM32 HAL` `ESP-IDF`  
 
-🖥 **MCU/MPU:** `NXP i.MX` `STM32` `ESP32` `Atmel` `BCM2712`
+🖥 **Microcontrollers / Processors:** `NXP i.MX` `STM32` `ESP32` `Atmel` `BCM2712`
  
